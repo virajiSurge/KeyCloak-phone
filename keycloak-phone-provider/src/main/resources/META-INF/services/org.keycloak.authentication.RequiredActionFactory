@@ -1,2 +1,2 @@
-cc.coopersoft.keycloak.phone.authentication.requiredactions.UpdatePhoneNumberRequiredActionFactory
-cc.coopersoft.keycloak.phone.authentication.requiredactions.ConfigSmsOtpRequiredActionFactory
+com.demo.keycloak.phone.authentication.requiredactions.UpdatePhoneNumberRequiredActionFactory
+com.demo.keycloak.phone.authentication.requiredactions.ConfigSmsOtpRequiredActionFactory

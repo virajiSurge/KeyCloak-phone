@@ -1,3 +1,3 @@
-cc.coopersoft.keycloak.phone.providers.spi.PhoneVerificationCodeSpi
-cc.coopersoft.keycloak.phone.providers.spi.PhoneSpi
-cc.coopersoft.keycloak.phone.providers.spi.MessageSenderServiceSpi
+com.demo.keycloak.phone.providers.spi.PhoneVerificationCodeSpi
+com.demo.keycloak.phone.providers.spi.PhoneSpi
+com.demo.keycloak.phone.providers.spi.MessageSenderServiceSpi

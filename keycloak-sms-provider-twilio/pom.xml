@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>cc.coopersoft</groupId>
+    <groupId>com.demo</groupId>
     <artifactId>keycloak-phone-provider-parent</artifactId>
     <version>2.3.4-snapshot</version>
   </parent>
@@ -14,7 +14,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>cc.coopersoft</groupId>
+      <groupId>com.demo</groupId>
       <artifactId>keycloak-phone-provider</artifactId>
       <version>2.3.4-snapshot</version>
       <scope>provided</scope>

@@ -1,1 +1,1 @@
-cc.coopersoft.keycloak.phone.providers.jpa.TokenCodeJpaEntityProviderFactory
+com.demo.keycloak.phone.providers.jpa.TokenCodeJpaEntityProviderFactory

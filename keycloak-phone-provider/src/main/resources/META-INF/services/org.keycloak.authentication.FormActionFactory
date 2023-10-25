@@ -1,3 +1,3 @@
-cc.coopersoft.keycloak.phone.authentication.forms.RegistrationPhoneVerificationCode
-cc.coopersoft.keycloak.phone.authentication.forms.RegistrationRedirectParametersReader
-cc.coopersoft.keycloak.phone.authentication.forms.RegistrationPhoneUserCreation
+com.demo.keycloak.phone.authentication.forms.RegistrationPhoneVerificationCode
+com.demo.keycloak.phone.authentication.forms.RegistrationRedirectParametersReader
+com.demo.keycloak.phone.authentication.forms.RegistrationPhoneUserCreation
