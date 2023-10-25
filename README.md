@@ -17,7 +17,7 @@ Refer to [install docker](https://docs.docker.com/engine/install/) to install do
 
 ## Setup the modules and jar files
 
-Currently, the code is implemented to use the dummy module for sms service. If you want to change it tothe twilio implwmntation, adjust the
+Currently, the code is implemented to use the dummy module for sms service. If you want to change it to the twilio implementation, change the
 code accordingly.
 
 Navigate to the project root directory an run the following command.
